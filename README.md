@@ -2,4 +2,4 @@
 
 Tecnologia utilizada
 
-Python com Biblioteca Matpltlib.pyplot
+Python com Biblioteca Matplotlib.pyplot
